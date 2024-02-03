@@ -40,6 +40,6 @@ module.exports = [
   {
     type: 'input',
     name: 'dbschema',
-    message: "Schema de la Base de Datos"
+    message: "Esquema de la Base de Datos"
   }
 ]
